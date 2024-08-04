@@ -1,3 +1,3 @@
-## Analysis of Tweets to find people's depression
+## Analysis of tweets to determine whether a person is depressed
 
-The project of NLP course
+NLP project
